@@ -1,0 +1,12 @@
+D:\Data\Homes\File.Net\Projects\bignumber\eMyBigNumber.Application\bin\Debug\net6.0\eMyBigNumber.Application.deps.json
+D:\Data\Homes\File.Net\Projects\bignumber\eMyBigNumber.Application\bin\Debug\net6.0\eMyBigNumber.Application.dll
+D:\Data\Homes\File.Net\Projects\bignumber\eMyBigNumber.Application\bin\Debug\net6.0\eMyBigNumber.Application.pdb
+D:\Data\Homes\File.Net\Projects\bignumber\eMyBigNumber.Application\obj\Debug\net6.0\eMyBigNumber.Application.csproj.AssemblyReference.cache
+D:\Data\Homes\File.Net\Projects\bignumber\eMyBigNumber.Application\obj\Debug\net6.0\eMyBigNumber.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\Homes\File.Net\Projects\bignumber\eMyBigNumber.Application\obj\Debug\net6.0\eMyBigNumber.Application.AssemblyInfoInputs.cache
+D:\Data\Homes\File.Net\Projects\bignumber\eMyBigNumber.Application\obj\Debug\net6.0\eMyBigNumber.Application.AssemblyInfo.cs
+D:\Data\Homes\File.Net\Projects\bignumber\eMyBigNumber.Application\obj\Debug\net6.0\eMyBigNumber.Application.csproj.CoreCompileInputs.cache
+D:\Data\Homes\File.Net\Projects\bignumber\eMyBigNumber.Application\obj\Debug\net6.0\eMyBigNumber.Application.dll
+D:\Data\Homes\File.Net\Projects\bignumber\eMyBigNumber.Application\obj\Debug\net6.0\refint\eMyBigNumber.Application.dll
+D:\Data\Homes\File.Net\Projects\bignumber\eMyBigNumber.Application\obj\Debug\net6.0\eMyBigNumber.Application.pdb
+D:\Data\Homes\File.Net\Projects\bignumber\eMyBigNumber.Application\obj\Debug\net6.0\ref\eMyBigNumber.Application.dll
